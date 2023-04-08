@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include "main.h"
-		
+
 /**
  * main - Entry point that prints all arg
  * @argc: counts of arguments
  * @argv: array of arguments
  *
- * Return: always 0 (success)		
+ * Return: always 0 (success)
  */
 
 int main(int argc, char *argv[])
